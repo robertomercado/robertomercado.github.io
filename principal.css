@@ -1,0 +1,78 @@
+body {
+	background: #e7b465;
+	font-family: Tahoma;
+	font-size: 11px;
+	width: 1200px;
+	margin: auto;
+}
+#logo{
+	background: url("C:/Users/Usuario/Documents/carlos/imagenes/banner1.png") no-repeat right;
+    margin: 0 auto;
+    background-size: 50%;
+    padding: 20em 2em 0em 3em;
+    text-transform: uppercase;
+}
+#logo h1 a{
+	margin: 0em;
+    padding: 0em 0em 0em 0em;
+    letter-spacing: -.1em;
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+#subtitulo{
+	padding: 0em;
+	margin-top: -1em;
+	font-size: -1.5em;
+	color: #BDF2FF;
+}
+#menu li{
+	display: inline-block;
+}
+#menu a {
+	display: block;
+	float: left;
+	margin-right: 0.12em;
+	padding: 1em 1.5em;
+	background: #977540;
+	box-shadow: inset 0px -2px 0px 0px rgba(0,0,0,0.25);
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #0C749C;
+	text-transform: uppercase;
+	font-size: .90em;
+	color: #FFFFFF;
+}
+#seccion {
+	width: 1150px;
+	padding: 20px 40px;
+	background: #FFF;
+	height: 290px;
+	border: black 2px solid;
+}
+img {
+	margin-top: 2em;
+	width: 330px;
+	height: 250px;
+	text-align: center;
+	border: black 2px solid;
+}
+#subtitulo2 {
+    font-family: Tahoma, Geneva, sans-serif;
+    }
+ #ladoderecho {
+     font-size: 25px;
+    color: black;
+  margin: -5px 20px 0px 0px;
+    float: right;
+    width: 65%;
+    text-align: justify;
+    color: #666;
+}
+#pie {
+    text-align: center;
+}
+p {
+    font-family: tahoma;
+    font-size: 12pt;
+}

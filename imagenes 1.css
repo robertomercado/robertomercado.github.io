@@ -1,0 +1,11 @@
+h1{
+	font-family:"trebuchet ms";
+	text-align:center;
+}
+img {
+	position:relative;
+	width: 286px;
+	height:194px;
+	z-index:1;
+	border: black 2px solid;
+}
